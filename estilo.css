@@ -1,0 +1,40 @@
+* {
+	font-family: "Lucida Handwriting";
+}
+h2 {
+	font-weight: normal;
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+div{
+	text-align: center;
+}
+hr {
+	width: 250px;
+	border-top: 3px solid orange;
+}
+button {
+	background-color: orange;
+	color: black;
+	height: 30px;
+	font-weight: bold;
+}
+input{
+	width: 300px;
+}
+select{
+	width: 160px;
+}
+textarea {
+	width: 540px;
+}
+.container{
+	font-size: smaller;
+	display: flex;
+	align-items: center;
+}
